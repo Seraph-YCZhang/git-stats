@@ -2,6 +2,7 @@
 statistic number of your git commits 
 ## how to run
 ```
+(optional) go build
 ./git_stat -add your_repository
 ./git_stat -email your_email
 ```
